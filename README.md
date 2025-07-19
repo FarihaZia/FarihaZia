@@ -1,5 +1,14 @@
-- 👋 Hi, I’m @FarihaZia
-- 🌱 I’m currently learning Typescript through Governor Sindh IT Initiative..
+👋 Hi! I'm Fariha — a developer with a focus on modern web technologies and intelligent systems.
+
+🛠️ Tech Stack:
+- HTML | CSS | TypeScript | Next.js | Python
+
+🌐 I build responsive, modern websites — from sleek frontends to dynamic web apps.
+
+🧠 Currently exploring **Agentic AI** and building smart, interactive agents.
+
+🚀 Always learning and pushing boundaries through creative, hands-on projects.
+
 
 
 <!---
